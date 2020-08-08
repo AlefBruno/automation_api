@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'cucumber'
+gem 'faker'
+gem 'httparty'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'rubocop-checkstyle_formatter'

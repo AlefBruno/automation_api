@@ -1,0 +1,9 @@
+---
+  default: -p json -p pretty -p html
+  ci: -p json -p pretty
+  
+  ###REPORTS###
+  html: --format html --out=reports/report.html
+  json: --format json --out=reports/report.json
+  pretty: --format pretty
+  

@@ -1,0 +1,8 @@
+dummy:
+  code:
+    success: 200
+  message:
+    success: 'success'
+  description:
+    success_create_employees: 'Successfully! Record has been added.'
+    success_delete_employees: 'Successfully! Record has been deleted'

@@ -1,0 +1,9 @@
+dummy:
+  employees:
+    host: 'http://dummy.restapiexample.com'
+    create:
+      v1: '/api/v1/create'
+    consulte:
+      v1: '/api/v1/employee'
+    delete:
+      v1: '/api/v1/delete'
